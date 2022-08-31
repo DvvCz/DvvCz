@@ -14,6 +14,6 @@
   <a href="https://material.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width=5%></a>  
   <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=5%></a>
   <a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width=5%></a>
-  <a href="https://vscodium.com"><img src="https://github.com/VSCodium/vscodium/raw/master/src/resources/linux/code.png" width=5%></a>
+  <a href="https://vscodium.com"><img src="https://github.com/VSCodium/vscodium/raw/master/src/stable/resources/linux/code.png" width=5%></a>
   <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=5%></a>
 </div>
