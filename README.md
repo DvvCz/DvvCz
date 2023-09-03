@@ -5,30 +5,29 @@
 
 <div align="center">
 
-## 🧰 Toolkit 🔧
+## My Tools
 
-| Frontend      | Intermediate | Systems    | Tooling             | Frameworks   | Environments |
-| :------------ | :----------- | :--------  | ------------------: | -----------: | -----------: |
-| [MaterialUI]  | [Typescript] | [Rust]     | [Git]/[Github]      | [Node]       | [Windows]    |
-| [Svelte]      | [Flutter]    | [C]        | [VSCode]            | [Bun]        | [WSL]        |
+| Frontend      | Native        | Environments   | Tooling        | Platforms    |
+| :-----------: | :-----------: | :------------: | :------------: | :----------: |
+| [Preact]      | [Rust]        | [Node.js]      | [Git]          | [Windows]    |
+| [TypeScript]  | [C]           | [Bun]          | [VSCode]       | [WSL]        |
+| [Vite]        |               | [Godot]        |                |              |
 
 </div>
 
-[MaterialUI]: https://mui.com
-[Svelte]: https://svelte.dev
-
-[Typescript]: https://www.typescriptlang.org
-[Flutter]: https://flutter.dev
+[Preact]: https://preactjs.com
+[Vite]: https://vitejs.dev
+[TypeScript]: https://www.typescriptlang.org
 
 [Rust]: https://www.rust-lang.org
 [C]: https://en.wikipedia.org/wiki/C_(programming_language
 
-[Git]: https://git-scm.com
-[Github]: https://desktop.github.com
-[VSCode]: https://code.visualstudio.com
-
-[Node]: https://nodejs.org/en/about
+[Node.js]: https://nodejs.org/en/about
 [Bun]: https://bun.sh
+[Godot]: https://godotengine.org
+
+[Git]: https://git-scm.com
+[VSCode]: https://code.visualstudio.com
 
 [Windows]: https://www.microsoft.com/en-us/windows
 [WSL]: https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux
