@@ -1,33 +1,26 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DvvCz&hide_border=true&show_icons=true&bg_color=0000&text_color=666666" height=180px width=47%>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DvvCz&hide_border=true&langs_count=8&layout=compact&hide=css,tcl&bg_color=0000" height=180px width=52%>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DvvCz&hide_border=true&langs_count=6&layout=compact&hide=css,tcl&bg_color=0000" height=180px width=52%>
 </div>
 
-<div align="center">
+##
 
-## My Tools
+I believe in creating simple code, for the sake of the user, and the developer in maintaining it.
 
-| Frontend      | Native        | Environments   | Tooling        | Platforms    |
-| :-----------: | :-----------: | :------------: | :------------: | :----------: |
-| [Preact]      | [Rust]        | [Node.js]      | [Git]          | [Windows]    |
-| [TypeScript]  | [C]           | [Bun]          | [VSCode]       | [WSL]        |
-| [Vite]        |               | [Godot]        |                |              |
+This can either mean using no dependencies for a library, or as many dependencies as needed for a program, to avoid reinventing the wheel.
 
-</div>
+## Tooling
 
-[Preact]: https://preactjs.com
-[Vite]: https://vitejs.dev
-[TypeScript]: https://www.typescriptlang.org
+I am most proficient in these areas, but will work with pretty much anything if needed.
 
-[Rust]: https://www.rust-lang.org
-[C]: https://en.wikipedia.org/wiki/C_(programming_language
+[![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=CE412B)](https://www.rust-lang.org/)
+[![Lua](https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=blue)](https://www.lua.org)
+[![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=00599C)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-[Node.js]: https://nodejs.org/en/about
-[Bun]: https://bun.sh
-[Godot]: https://godotengine.org
+[![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+[![Bun](https://img.shields.io/badge/Bun-323330?style=for-the-badge&logo=bun&logoColor=fbf0df)](https://bun.sh/)
+[![Node](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://nodejs.org/en)
 
-[Git]: https://git-scm.com
-[VSCode]: https://code.visualstudio.com
+[![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
-[Windows]: https://www.microsoft.com/en-us/windows
-[WSL]: https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux
