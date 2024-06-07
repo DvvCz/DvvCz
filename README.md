@@ -11,7 +11,7 @@ This can either mean using no dependencies for a library, or as many dependencie
 
 ## Tooling
 
-I am most proficient in these areas, but will work with pretty much anything if needed.
+I am most proficient in these areas, but will anything better suited for a project.
 
 [![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=CE412B)](https://www.rust-lang.org/)
 [![Lua](https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=blue)](https://www.lua.org)
