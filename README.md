@@ -23,6 +23,3 @@ I am most proficient in these areas, but will use anything better suited for a p
 
 [![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/DvvCz/DvvCz/main/test.jpg');]{x0000}$}
