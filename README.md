@@ -5,13 +5,13 @@
 
 ##
 
-I believe in creating simple code, for the sake of the user, and the developer in maintaining it.
+I follow a philosophy of simple code, for the sake of the user and the developer in maintaining it.  
 
-This can either mean using no dependencies for a library, or as many dependencies as needed for a program, to avoid reinventing the wheel.
+This can either mean using no dependencies for a library, or as many well established dependencies as needed for a program.
 
 ## Tooling
 
-I am most proficient in these areas, but will use anything better suited for a project.
+I am most proficient with these, but defer to anything better suited for a project.
 
 [![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=CE412B)](https://www.rust-lang.org/)
 [![Lua](https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=darkblue)](https://www.lua.org)
