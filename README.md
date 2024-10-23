@@ -9,6 +9,7 @@ I follow a philosophy of simple code, for the sake of the user and the developer
 
 This can either mean using no dependencies for a library, or as many well established dependencies as needed for a program.
 
+<!--
 ## Tooling
 
 I am most proficient with these, but defer to anything better suited for a project.
@@ -23,3 +24,4 @@ I am most proficient with these, but defer to anything better suited for a proje
 [![Next.js](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=Next.js)](https://nextjs.org/)
 [![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+-->
